@@ -1,7 +1,6 @@
 package com.rocketseat.planner.participant;
 
 import com.rocketseat.planner.trip.Trip;
-import com.rocketseat.planner.trip.TripRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
