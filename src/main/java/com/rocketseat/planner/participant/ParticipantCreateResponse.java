@@ -1,4 +1,6 @@
 package com.rocketseat.planner.participant;
 
-public record ParticipantCreateResponse() {
+import java.util.UUID;
+
+public record ParticipantCreateResponse(UUID id) {
 }
